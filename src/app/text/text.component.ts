@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TextComponent implements OnInit {
   a:number=10;  
-  b:string="raju";
+  b:string="raju ";
   c:boolean=false;
 
 
